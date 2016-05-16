@@ -1,2 +1,2 @@
 
-docker run --name npm_lazy -d -p 8099:8099 -t --restart on-failure <image>
+docker run --name npm_lazy -d -p 8098:8098 -t --restart on-failure <image>
